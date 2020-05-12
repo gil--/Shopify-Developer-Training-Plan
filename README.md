@@ -18,23 +18,46 @@ A thorough Checklist of Shopify concepts every developer should know in the orde
 3. [Themekit](https://shopify.github.io/themekit/)
 4. [3 Simple Steps for Setting Up a Local Shopify Theme Development Environment](https://www.shopify.com/partners/blog/95401862-3-simple-steps-for-setting-up-a-local-shopify-theme-development-environment)
 
+### Products
+
+1. Know about Product Variants. [1](https://help.shopify.com/en/manual/products/variants), [4](https://www.youtube.com/watch?v=UUIP1n_9kP8)
+
+2. Know about the 100 Variant limit and 3 option limit. [2](https://help.shopify.com/en/manual/products/variants/add-variants#considerations-for-adding-variants)
+
+3. Know what options exist to accomidate the 100 variant limit. [3](https://paulnrogers.com/getting-around-the-shopify-product-variants-limit/)
+
+###### Resources
+
+1. [Product Variants](https://help.shopify.com/en/manual/products/variants)
+2. [Variant limitations](https://help.shopify.com/en/manual/products/variants/add-variants#considerations-for-adding-variants)
+3. [Getting Around the Shopify Product Variant Limit](https://paulnrogers.com/getting-around-the-shopify-product-variants-limit/)
+4. [How to Add Variants to Products (Video)](https://www.youtube.com/watch?v=UUIP1n_9kP8)
+
 ### Liquid basics
 
 1. Understand the basics of liquid including tags and filters. [1](https://shopify.github.io/liquid/basics/introduction/)
 
-2. Know Shopify's specific objects, tags, and filters. [2](https://shopify.dev/docs/themes/liquid/reference)
+2. Know Shopify's specific objects, tags, and filters. [2](https://shopify.dev/docs/themes/liquid/reference), [3](https://www.christhefreelancer.com/shopify-liquid-guide/)
 
-3. Know of the Shopify liquid cheatsheet. [3](https://www.shopify.com/partners/shopify-cheat-sheet)
+3. Know of the Shopify liquid cheatsheet. [4](https://www.shopify.com/partners/shopify-cheat-sheet)
+
+4. Know of the Snippets Library. [5](https://shopify.github.io/liquid-code-examples/)
 
 ##### Resources
 
 1. [Liquid Introduction](https://shopify.github.io/liquid/basics/introduction/)
 2. [Shopify's Liquid introduction](https://shopify.dev/docs/themes/liquid/reference)
-3. [Shopify Liquid Cheatsheet](https://www.shopify.com/partners/shopify-cheat-sheet)
+3. [Shopify Liquid The Ultimate Guide](https://www.christhefreelancer.com/shopify-liquid-guide/)
+4. [Shopify Liquid Cheatsheet](https://www.shopify.com/partners/shopify-cheat-sheet)
+5. [Snippets Library](https://shopify.github.io/liquid-code-examples/)
 
 ### Route object
 
-1. 
+1. Know the routes object why it's important for multi-lingual stores. [1]
+
+##### Resources
+
+1. [Routes Object](https://shopify.dev/docs/themes/liquid/reference/objects/routes)
 
 ### Translations
 
@@ -117,4 +140,4 @@ Check back soon...
 
 ##### Resources
 
-[Developer Changelog](https://shopify.dev/changelog)
+1. [Developer Changelog](https://shopify.dev/changelog)
