@@ -147,6 +147,22 @@ A thorough Checklist of Shopify concepts every developer should know in the orde
 1. [Tags vs Metafields in Shopify and Shopify Plus](https://paulnrogers.com/shopify-tags-vs-metafields/)
 </details>
 
+### Line Item Property
+
+1. Understand what a line item property is. [1](https://shopify.dev/docs/themes/liquid/reference/objects/line_item#line_item-properties)
+
+2. Understnad how to surface line item properties as custom inputs in a theme. [2](https://ui-elements-generator.myshopify.com/pages/line-item-property)
+
+3. Know how to hide line item properties from the customer in checkout using the `_` prefix. [3](https://community.shopify.com/c/Shopify-Design/Product-pages-Get-customization-information-for-products/m-p/616525#hide-line-item-properties)
+
+<details>
+<summary>Resources</summary>
+
+1. [Line Item Property Object](https://shopify.dev/docs/themes/liquid/reference/objects/line_item#line_item-properties)
+2. [Line Item Property Input Generator](https://ui-elements-generator.myshopify.com/pages/line-item-property)
+3. [Hide Line Item Properties](https://community.shopify.com/c/Shopify-Design/Product-pages-Get-customization-information-for-products/m-p/616525#hide-line-item-properties)
+</details>
+
 ## App Development
 
 Check back soon...
