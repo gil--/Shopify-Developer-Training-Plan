@@ -11,7 +11,7 @@ A thorough Checklist of Shopify concepts every developer should know in the orde
 
 2. Understand the limitations of a development store including the use of the Bogus Payment Gateway [2](https://help.shopify.com/en/partners/dashboard/managing-stores/test-orders-in-dev-stores#testing-using-shopifys-bogus-gateway)
 
-3. Know how to utilize ThemeKit to sync your local development theme with the Shopify sandbox store. [3](https://shopify.github.io/themekit)[4](https://www.shopify.com/partners/blog/95401862-3-simple-steps-for-setting-up-a-local-shopify-theme-development-environment)
+3. Know how to utilize ThemeKit to sync your local development theme with the Shopify sandbox store. [3](https://shopify.github.io/themekit),[4](https://www.shopify.com/partners/blog/95401862-3-simple-steps-for-setting-up-a-local-shopify-theme-development-environment)
 
 ###### Resources
 
@@ -72,7 +72,7 @@ A thorough Checklist of Shopify concepts every developer should know in the orde
 
 2. Know what the metafield object is. [2](https://shopify.dev/docs/themes/liquid/reference/objects/metafield)
 
-3. Know how to show metafields in the theme. [3](https://help.shopify.com/en/manual/products/metafields/index#show-metafields-in-the-storefront)[4](https://www.shopify.com/partners/blog/110057030-using-metafields-in-your-shopify-theme)
+3. Know how to show metafields in the theme. [3](https://help.shopify.com/en/manual/products/metafields/index#show-metafields-in-the-storefront),[4](https://www.shopify.com/partners/blog/110057030-using-metafields-in-your-shopify-theme)
 
 4. Understand when and how to use private metafields. [5](https://shopify.dev/tutorials/store-data-in-metafields#private-metafields)
 
