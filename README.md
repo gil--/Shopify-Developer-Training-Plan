@@ -9,7 +9,7 @@ A thorough Checklist of Shopify concepts every developer should know in the orde
 
 1. Know how to create a development environment. [1](https://help.shopify.com/en/partners/dashboard/managing-stores/development-stores)
 
-2. Understand the limitations of a development store including the use of the Bogus Payment Gateway [2](https://help.shopify.com/en/partners/dashboard/managing-stores/test-orders-in-dev-stores#testing-using-shopifys-bogus-gateway)
+2. Understand the limitations of a development store including the use of the Bogus Payment Gateway. [2](https://help.shopify.com/en/partners/dashboard/managing-stores/test-orders-in-dev-stores#testing-using-shopifys-bogus-gateway)
 
 3. Know how to utilize ThemeKit to sync your local development theme with the Shopify sandbox store. [3](https://shopify.github.io/themekit),[4](https://www.shopify.com/partners/blog/95401862-3-simple-steps-for-setting-up-a-local-shopify-theme-development-environment)
 
@@ -29,21 +29,21 @@ A thorough Checklist of Shopify concepts every developer should know in the orde
 
 2. Know Shopify's specific objects, tags, and filters. [2](https://shopify.dev/docs/themes/liquid/reference)
 
+3. KNow of the Shopify liquid cheatsheet. [3](https://www.shopify.com/partners/shopify-cheat-sheet)
+
 ##### Resources
 
 1. [Liquid Introduction](https://shopify.github.io/liquid/basics/introduction/)
 
 2. [Shopify's Liquid introduction](https://shopify.dev/docs/themes/liquid/reference)
 
-### Shopify liquid tags
-
-### Translations
+3. [Shopify Liquid Cheatsheet](https://www.shopify.com/partners/shopify-cheat-sheet)
 
 ### Route object
 
 ### Translations
 
-1. Know how to leverage translations keys and the `| t` liquid filter for Shopify translations. [1](d)
+1. Know how to leverage translations keys and the `| t` liquid filter for Shopify translations. [1](https://shopify.dev/tutorials/develop-theme-localization-use-translation-keys)
 
 2. Know how to avoid escaping html through the use of `_html` translation keys. [2](https://shopify.dev/tutorials/develop-theme-localization-use-translation-keys#including-html-in-translation-keys)
 
