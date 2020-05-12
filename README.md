@@ -1,11 +1,9 @@
 # Shopify Developer Training Plan
 A thorough Checklist of Shopify concepts every developer should know in the order they should learn them
 
-
-
 ## Theme Development
 
-### Bascis
+### Basics
 
 1. Know how to create a development environment. [1](https://help.shopify.com/en/partners/dashboard/managing-stores/development-stores)
 
@@ -16,11 +14,8 @@ A thorough Checklist of Shopify concepts every developer should know in the orde
 ###### Resources
 
 1. [Creating development stores](https://help.shopify.com/en/partners/dashboard/managing-stores/development-stores)
-
 2. [Bogus Payment Gateway](https://help.shopify.com/en/partners/dashboard/managing-stores/test-orders-in-dev-stores#testing-using-shopifys-bogus-gateway)
-
 3. [Themekit](https://shopify.github.io/themekit/)
-
 4. [3 Simple Steps for Setting Up a Local Shopify Theme Development Environment](https://www.shopify.com/partners/blog/95401862-3-simple-steps-for-setting-up-a-local-shopify-theme-development-environment)
 
 ### Liquid basics
@@ -29,17 +24,17 @@ A thorough Checklist of Shopify concepts every developer should know in the orde
 
 2. Know Shopify's specific objects, tags, and filters. [2](https://shopify.dev/docs/themes/liquid/reference)
 
-3. KNow of the Shopify liquid cheatsheet. [3](https://www.shopify.com/partners/shopify-cheat-sheet)
+3. Know of the Shopify liquid cheatsheet. [3](https://www.shopify.com/partners/shopify-cheat-sheet)
 
 ##### Resources
 
 1. [Liquid Introduction](https://shopify.github.io/liquid/basics/introduction/)
-
 2. [Shopify's Liquid introduction](https://shopify.dev/docs/themes/liquid/reference)
-
 3. [Shopify Liquid Cheatsheet](https://www.shopify.com/partners/shopify-cheat-sheet)
 
 ### Route object
+
+1. 
 
 ### Translations
 
@@ -51,12 +46,15 @@ A thorough Checklist of Shopify concepts every developer should know in the orde
 
 4. Understand how multi-lingual translations operate. [4](https://help.shopify.com/en/manual/sell-online/multilingual-online-store)
 
+5. Understand how to develop themes to support multi-lingual stores. [5](https://shopify.dev/tutorials/support-multiple-languages-in-apps-and-themes#developing-themes-that-support-multiple-languages)
+
 ##### Resources
 
 1. [Translation keys and the t filter](https://shopify.dev/tutorials/develop-theme-localization-use-translation-keys)
 2. [Including HTML in translation keys](https://shopify.dev/tutorials/develop-theme-localization-use-translation-keys#including-html-in-translation-keys)
 3. [Translating your store](https://help.shopify.com/en/manual/using-themes/translate-theme)
 4. [Multilingual Stores](https://help.shopify.com/en/manual/sell-online/multilingual-online-store)
+5. [Developing themes that support multiple languages](https://shopify.dev/tutorials/support-multiple-languages-in-apps-and-themes#developing-themes-that-support-multiple-languages)
 
 ### Alternate Templates
 
@@ -79,13 +77,9 @@ A thorough Checklist of Shopify concepts every developer should know in the orde
 ##### Resources
 
 1. [Metafields](https://help.shopify.com/en/manual/products/metafields/index)
-
 2. [Metafield object](https://shopify.dev/docs/themes/liquid/reference/objects/metafield)
-
 3. [Show Metafields in the storefront](https://help.shopify.com/en/manual/products/metafields/index#show-metafields-in-the-storefront)
-
 4. [Using Metafields in your Shopify theme](https://www.shopify.com/partners/blog/110057030-using-metafields-in-your-shopify-theme)
-
 5. [Private metafields](https://shopify.dev/tutorials/store-data-in-metafields#private-metafields)
 
 ### Tags
@@ -101,9 +95,7 @@ A thorough Checklist of Shopify concepts every developer should know in the orde
 ##### Resources
 
 1. [Creating and using Tags](https://help.shopify.com/en/manual/productivity-tools/using-tags)
-
 2. [Tag formats](https://help.shopify.com/en/manual/products/details/tags)
-
 3. [Filter collections with product tags](https://shopify.dev/tutorials/customize-theme-filter-collections-with-product-tags)
 
 ### Metafields vs Tags
@@ -122,8 +114,6 @@ Check back soon...
 ## Miscellaneous
 
 1. Know about the developer changelog which is where Shopify announces developer facing changes and features. [1](https://shopify.dev/changelog)
-
-
 
 ##### Resources
 
