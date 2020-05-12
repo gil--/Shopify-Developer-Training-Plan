@@ -40,13 +40,25 @@ A thorough Checklist of Shopify concepts every developer should know in the orde
 
 ### Metafields
 
-1. Know what the metafield object is. [1](https://shopify.dev/docs/themes/liquid/reference/objects/metafield)
+1. Know what a metafield is. [1](https://help.shopify.com/en/manual/products/metafields/index)
 
-2. 
+2. Know what the metafield object is. [2](https://shopify.dev/docs/themes/liquid/reference/objects/metafield)
+
+3. Know how to show metafields in the theme. [3](https://help.shopify.com/en/manual/products/metafields/index#show-metafields-in-the-storefront)[4](https://www.shopify.com/partners/blog/110057030-using-metafields-in-your-shopify-theme)
+
+4. Understand when and how to use private metafields. [5](https://shopify.dev/tutorials/store-data-in-metafields#private-metafields)
 
 ##### Resources
 
-1. [Metafield object](https://shopify.dev/docs/themes/liquid/reference/objects/metafield)
+1. [Metafields](https://help.shopify.com/en/manual/products/metafields/index)
+
+2. [Metafield object](https://shopify.dev/docs/themes/liquid/reference/objects/metafield)
+
+3. [Show Metafields in the storefront](https://help.shopify.com/en/manual/products/metafields/index#show-metafields-in-the-storefront)
+
+4. [Using Metafields in your Shopify theme](https://www.shopify.com/partners/blog/110057030-using-metafields-in-your-shopify-theme)
+
+5. [Private metafields](https://shopify.dev/tutorials/store-data-in-metafields#private-metafields)
 
 ### Tags
 
