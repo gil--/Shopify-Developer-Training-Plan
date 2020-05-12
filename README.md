@@ -5,7 +5,35 @@ A thorough Checklist of Shopify concepts every developer should know in the orde
 
 ## Theme Development
 
+### Bascis
+
+1. Know how to create a development environment. [1](https://help.shopify.com/en/partners/dashboard/managing-stores/development-stores)
+
+2. Understand the limitations of a development store including the use of the Bogus Payment Gateway [2](https://help.shopify.com/en/partners/dashboard/managing-stores/test-orders-in-dev-stores#testing-using-shopifys-bogus-gateway)
+
+3. Know how to utilize ThemeKit to sync your local development theme with the Shopify sandbox store. [3](https://shopify.github.io/themekit)[4](https://www.shopify.com/partners/blog/95401862-3-simple-steps-for-setting-up-a-local-shopify-theme-development-environment)
+
+###### Resources
+
+1. [Creating development stores](https://help.shopify.com/en/partners/dashboard/managing-stores/development-stores)
+
+2. [Bogus Payment Gateway](https://help.shopify.com/en/partners/dashboard/managing-stores/test-orders-in-dev-stores#testing-using-shopifys-bogus-gateway)
+
+3. [Themekit](https://shopify.github.io/themekit/)
+
+4. [3 Simple Steps for Setting Up a Local Shopify Theme Development Environment](https://www.shopify.com/partners/blog/95401862-3-simple-steps-for-setting-up-a-local-shopify-theme-development-environment)
+
 ### Liquid basics
+
+1. Understand the basics of liquid including tags and filters. [1](https://shopify.github.io/liquid/basics/introduction/)
+
+2. Know Shopify's specific objects, tags, and filters. [2](https://shopify.dev/docs/themes/liquid/reference)
+
+##### Resources
+
+1. [Liquid Introduction](https://shopify.github.io/liquid/basics/introduction/)
+
+2. [Shopify's Liquid introduction](https://shopify.dev/docs/themes/liquid/reference)
 
 ### Shopify liquid tags
 
@@ -87,3 +115,16 @@ A thorough Checklist of Shopify concepts every developer should know in the orde
 1. [Tags vs Metafields in Shopify and Shopify Plus](https://paulnrogers.com/shopify-tags-vs-metafields/)
 
 ## App Development
+
+Check back soon...
+
+
+## Miscellaneous
+
+1. Know about the developer changelog which is where Shopify announces developer facing changes and features. [1](https://shopify.dev/changelog)
+
+
+
+##### Resources
+
+[Developer Changelog](https://shopify.dev/changelog)
