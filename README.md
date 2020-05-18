@@ -1,6 +1,10 @@
 # Shopify Developer Training Plan
 A thorough Checklist of Shopify concepts every developer should know in the order they should learn them
 
+## Contents
+- [Theme Development](#theme-development)
+- [App Development](#app-development)
+
 ## Theme Development
 
 ### Basics
@@ -163,6 +167,24 @@ A thorough Checklist of Shopify concepts every developer should know in the orde
 3. [Hide Line Item Properties](https://community.shopify.com/c/Shopify-Design/Product-pages-Get-customization-information-for-products/m-p/616525#hide-line-item-properties)
 </details>
 
+### Shopify Scripts
+1. Understand the basics of Ruby. [1](https://www.codecademy.com/learn/learn-ruby)
+2. Understand what Shopify scripts are and how to use them. [2](https://help.shopify.com/en/manual/apps/apps-by-shopify/script-editor/), [3](https://help.shopify.com/en/manual/apps/apps-by-shopify/script-editor/examples)
+3. Know the Shopify Scripts API. [4](https://help.shopify.com/en/manual/apps/apps-by-shopify/script-editor/shopify-scripts)
+4. Know the limitations of Script such as not being able to add products and lack of API. [5](https://help.shopify.com/en/manual/apps/apps-by-shopify/script-editor/limitations)
+5. Know about the unofficial Shopify Scripts generator. [6](https://jgodson.github.io/shopify-script-creator/)
+
+<details>
+<summary>Resources</summary>
+
+1. [Learn Ruby Fundamentals](https://www.codecademy.com/learn/learn-ruby)
+2. [Shopify Scripts & Script Editor](https://help.shopify.com/en/manual/apps/apps-by-shopify/script-editor/)
+3. [Shopify Scripts Examples](https://help.shopify.com/en/manual/apps/apps-by-shopify/script-editor/examples)
+4. [Scripts API](https://help.shopify.com/en/manual/apps/apps-by-shopify/script-editor/shopify-scripts)
+5. [Limitations of Scripts](https://help.shopify.com/en/manual/apps/apps-by-shopify/script-editor/limitations)
+6. [Scripts Generator](https://jgodson.github.io/shopify-script-creator/)
+</details>
+
 ## App Development
 
 Check back soon...
@@ -177,3 +199,5 @@ Check back soon...
 
 1. [Developer Changelog](https://shopify.dev/changelog)
 </details>
+
+
