@@ -187,8 +187,31 @@ A thorough Checklist of Shopify concepts every developer should know in the orde
 
 ## App Development
 
-Check back soon...
+### App types
 
+1. Know the differences between different types of apps (Private vs Unslited vs Public). [1](https://help.shopify.com/en/manual/apps/app-types)
+
+### API versioning & rate limiting 
+
+1. Understand Shopify's API Versioning scheme and quarterly release/deprecation cycle. [1](https://shopify.dev/concepts/about-apis/versioning)
+2. Understand how Shopify rate limits the REST and Graphql Admin APIS. [1](https://shopify.dev/concepts/about-apis/rate-limits)
+3. Know that Shopify Plus stores have double the rate limits. [1](https://shopify.dev/concepts/about-apis/rate-limits#resource-based-rate-limits)
+4. Know that the popular `Shopify-api-node` library respects rate limiting and allows for configuration. [1](https://github.com/MONEI/Shopify-api-node#shopifycalllimits)
+
+### Security best practices
+
+1. Know how to rotate credentials and why it's important. [1](https://shopify.dev/tutorials/rotate-revoke-api-credentials)
+2. Know that access tokens should be encrypted at rest. 
+3. Know that all API requests should be verified via session before taking actions on behalf of a user.
+4. Know that all user input should be cleaned and verified before saving to DB.
+
+### Useful packages
+
+1. [Shopify API Node](https://github.com/MONEI/Shopify-api-node) - #1 package to connect to Shopify's REST API via NodeJS.
+2. [Shopify Quilt](https://github.com/Shopify/quilt) - Collection of official Shopify Javascript packages.
+3. [Admin-graphql-api-utilities](https://github.com/Shopify/quilt/tree/master/packages/admin-graphql-api-utilities) - Super useful package when interacting with the Storefront and Admin Graphql libraries.
+4. [Polaris React](https://github.com/Shopify/polaris-react) - Shopify's official component library to create apps consistent with Shopify's UI/UX.
+5. [App-bridge-react](https://www.npmjs.com/package/@shopify/app-bridge-react) - Shopify's library for creating embedded apps that interact with Shopify such as showing modals, alerts, etc.
 
 ## Miscellaneous
 
