@@ -189,9 +189,9 @@ A thorough Checklist of Shopify concepts every developer should know in the orde
 
 ### App types
 
-1. Know the differences between different types of apps (Private vs Unslited vs Public). [1](https://help.shopify.com/en/manual/apps/app-types)
+1. Know the differences between different types of apps (Private vs Unlisted vs Public). [1](https://help.shopify.com/en/manual/apps/app-types)
 
-### API versioning & rate limiting 
+### API versioning & rate limiting
 
 1. Understand Shopify's API Versioning scheme and quarterly release/deprecation cycle. [1](https://shopify.dev/concepts/about-apis/versioning)
 2. Understand how Shopify rate limits the REST and Graphql Admin APIS. [1](https://shopify.dev/concepts/about-apis/rate-limits)
@@ -201,7 +201,7 @@ A thorough Checklist of Shopify concepts every developer should know in the orde
 ### Security best practices
 
 1. Know how to rotate credentials and why it's important. [1](https://shopify.dev/tutorials/rotate-revoke-api-credentials)
-2. Know that access tokens should be encrypted at rest. 
+2. Know that access tokens should be encrypted at rest.
 3. Know that all API requests should be verified via session before taking actions on behalf of a user.
 4. Know that all user input should be cleaned and verified before saving to DB.
 
